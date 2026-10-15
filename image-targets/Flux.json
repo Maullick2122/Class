@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 304,
+    "left": 0,
+    "width": 1943,
+    "height": 2591,
+    "isRotated": false,
+    "originalWidth": 1943,
+    "originalHeight": 3201
+  },
+  "imagePath": "image-targets/Flux_luminance.png",
+  "metadata": null,
+  "name": "Flux",
+  "resources": {
+    "originalImage": "Flux_original.png",
+    "croppedImage": "Flux_cropped.png",
+    "thumbnailImage": "Flux_thumbnail.png",
+    "luminanceImage": "Flux_luminance.png"
+  },
+  "created": 1792066883815,
+  "updated": 1792067443672
+}
